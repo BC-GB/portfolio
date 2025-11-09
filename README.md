@@ -26,7 +26,7 @@
 
 **Approach:** Adopted a structured categorisation framework (General Expenses, Recurring Expenses, Capital). Critically evaluated database design and user experience to ensure intuitive workflows. Integrated AI text parsing to eliminate manual data entry. Built analytics dashboard for spending insights, with future opportunities for AI-driven behavioural analysis.
 
-**Strategic Impact:** Improved cost efficiency through better spending visibility; enhanced time efficiency by automating data entry and analytics generation.
+**Strategic Impact:** Improved cost efficiency through better spending visibility; enhanced time efficiency by automating data entry, analytics generation, inventory forecasting.
 
 **Tech:** TypeScript, React, Python, FastAPI, SQLite
 
@@ -50,7 +50,7 @@
 
 <img width="1920" alt="Study Dashboard" src="https://github.com/user-attachments/assets/889662bb-244f-498a-a629-787c76009187">
 
-**Problem:** Traditional note-taking and to-do tools lack the ability to plan workload relative to exam dates, limiting efficient revision planning.
+**Problem:** Traditional note-taking and to-do tools lack the ability to intuitively plan workload relative to exam dates, and involves tedious data entry (whether be it by inputting tasks or rescheduling them), limiting efficient revision planning.
 
 **Approach:** Built a simple, intuitive tracker with manually editable YAML configuration. Uniquely includes exam dates to enable workload planning in relation to deadlines. YAML structure allows AI-generated study schedules to be pasted directly into the system.
 
@@ -58,16 +58,9 @@
 
 **Tech:** JavaScript, Python, HTML/CSS
 
----
-
-## Technical Skills
-
-**Core:** Full-stack development, API integration, database design, practical AI implementation, data visualisation
-
-**Languages & Tools:** TypeScript, JavaScript, Python, React, FastAPI, SQLite
 
 ---
 
 **Contact:** [@BC-GB](https://github.com/BC-GB)
 
-Repositories are private due to personal data. Available for review upon request.
+Repositories are private. Available for review upon request.
