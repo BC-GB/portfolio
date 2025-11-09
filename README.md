@@ -13,14 +13,13 @@
 ## Projects
 
 ### Personal Budgeting & Forecasting
+<img width="1920" height="1080" alt="Screenshot 2025-11-09 151251" src="https://github.com/user-attachments/assets/3e7ba46f-744f-476f-88bd-e8d77f524a8a" />
 
-<img width="1920" alt="Financial Dashboard" src="https://github.com/user-attachments/assets/4795d256-e337-4399-aa41-4774c99e0f04">
+<img width="1920" height="1080" alt="Screenshot 2025-11-09 151303" src="https://github.com/user-attachments/assets/46b2a3c2-8930-410f-90e0-e75d357a90b7" />
 
-<img width="1920" alt="Spending Analysis" src="https://github.com/user-attachments/assets/ee4ef975-ae99-43c2-ad14-d62a2c755011">
+<img width="1880" height="474" alt="Screenshot 2025-11-09 151346" src="https://github.com/user-attachments/assets/ca8a9a77-2ad0-4795-998e-22cdfa51b5e1" />
 
-<img width="1880" alt="Shopping List" src="https://github.com/user-attachments/assets/339d3405-c288-4b9b-a440-51db06183d19">
-
-<img width="1920" alt="Todoist Integration" src="https://github.com/user-attachments/assets/efbd3c2f-8519-4ba7-9d0e-1e45569b83a1">
+<img width="1920" height="1080" alt="Screenshot 2025-11-09 151443" src="https://github.com/user-attachments/assets/83276331-3a7d-4636-9b15-1f48d8d31157" />
 
 **Problem:** Managing personal finances requires tracking spending and generating analytics, yet manual data entry is tedious. Additionally, inventory management is essential to consolidate orders and prevent stock-outs.
 
@@ -48,7 +47,8 @@
 
 ### Exam Study Tracker
 
-<img width="1920" alt="Study Dashboard" src="https://github.com/user-attachments/assets/889662bb-244f-498a-a629-787c76009187">
+![Uploading Screenshot 2025-11-09 133942.png…]()
+
 
 **Problem:** Traditional note-taking and to-do tools lack the ability to intuitively plan workload relative to exam dates, and involves tedious data entry (whether be it by inputting tasks or rescheduling).
 
