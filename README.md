@@ -4,11 +4,15 @@
 
 ---
 
+## Skills Demonstrated
+
+**Analytical Thinking** · **Structured Problem-Solving** · **Critical Thinking** · **Process Optimisation** · **Strategic Planning** · **Data-Driven Decision Making** · **Time & Cost Efficiency**
+
+---
+
 ## Projects
 
 ### [Personal Budgeting & Forecasting](https://github.com/BC-GB/Personal-Budgeting-Forecasting)
-
-Financial management system for tracking expenses, forecasting cash flow, and organising spending.
 
 <img width="1920" alt="Financial Dashboard" src="https://github.com/user-attachments/assets/4795d256-e337-4399-aa41-4774c99e0f04">
 
@@ -18,47 +22,49 @@ Financial management system for tracking expenses, forecasting cash flow, and or
 
 <img width="1920" alt="Todoist Integration" src="https://github.com/user-attachments/assets/efbd3c2f-8519-4ba7-9d0e-1e45569b83a1">
 
-**Features:**
-- Real-time balance tracking and cashflow visualisation
-- Smart shopping lists with Todoist sync
-- AI text parsing for quick item entry
-- Recurring expense forecasting
+**Problem:** Managing personal finances requires tracking spending and generating analytics, yet manual data entry is tedious. Additionally, inventory management is essential to consolidate orders and prevent stock-outs.
+
+**Approach:** Adopted a structured categorisation framework (General Expenses, Recurring Expenses, Capital). Critically evaluated database design and user experience to ensure intuitive workflows. Integrated AI text parsing to eliminate manual data entry. Built analytics dashboard for spending insights, with future opportunities for AI-driven behavioural analysis.
+
+**Strategic Impact:** Improved cost efficiency through better spending visibility; enhanced time efficiency by automating data entry and analytics generation.
 
 **Tech:** TypeScript, React, Python, FastAPI, SQLite
 
 ---
 
-### [Exam Study Tracker](https://github.com/BC-GB/exam-study-tracker)
-
-Study planner for managing exam preparation across multiple subjects.
-
-<img width="1920" alt="Study Dashboard" src="https://github.com/user-attachments/assets/889662bb-244f-498a-a629-787c76009187">
-
-**Features:**
-- Visual calendar with progress tracking
-- Interactive checklists
-- Multi-select task rescheduling
-- YAML-based configuration for AI-assisted schedule generation
-
-**Tech:** JavaScript, Python, HTML/CSS
-
----
-
 ### [Screener-Tracker](https://github.com/BC-GB/Screener-Tracker)
 
-Stock screening and analysis tool for tracking market opportunities.
+<img width="1920" height="1080" alt="Stock Screener Dashboard" src="https://github.com/user-attachments/assets/3442eee0-b2a9-4529-96bf-eef893b02b6e" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3442eee0-b2a9-4529-96bf-eef893b02b6e" />
+**Problem:** Managing stock picks and portfolio requires visiting multiple sites and manually crunching numbers—a time-intensive process unsuitable for busy schedules.
+
+**Approach:** Leveraged Python's speed and flexibility to automate data collection, cleansing, and export to Excel. Designed structured workflows to eliminate repetitive manual analysis.
+
+**Strategic Impact:** Significant time efficiency gains through automation; enhanced decision-making capability with consolidated, clean data.
 
 **Tech:** Python
 
 ---
 
-## Skills
+### [Exam Study Tracker](https://github.com/BC-GB/exam-study-tracker)
 
-**Core:** Problem-solving, financial planning, process optimisation, data organisation, time management
+<img width="1920" alt="Study Dashboard" src="https://github.com/user-attachments/assets/889662bb-244f-498a-a629-787c76009187">
 
-**Technical:** Full-stack development, API integration, database design, practical AI implementation
+**Problem:** Traditional note-taking and to-do tools lack the ability to plan workload relative to exam dates, limiting efficient revision planning.
+
+**Approach:** Built a simple, intuitive tracker with manually editable YAML configuration. Uniquely includes exam dates to enable workload planning in relation to deadlines. YAML structure allows AI-generated study schedules to be pasted directly into the system.
+
+**Strategic Impact:** Enhanced revision efficiency through deadline-aware planning; improved time management by leveraging AI for optimised scheduling.
+
+**Tech:** JavaScript, Python, HTML/CSS
+
+---
+
+## Technical Skills
+
+**Core:** Full-stack development, API integration, database design, practical AI implementation, data visualisation
+
+**Languages & Tools:** TypeScript, JavaScript, Python, React, FastAPI, SQLite
 
 ---
 
