@@ -55,7 +55,7 @@ TypeScript, React, Python, FastAPI, SQLite
 **Problem**
 
 - Analysing stocks meant tediously visiting multiple sources and manually copying data into spreadsheets.
-- Additionally, this process was slow limited my ability to do frequent analysis, leaving them out of date from one trading day to the next.
+- Reliance on manual updates rendered analysis obsolete from one trading session to the next.
 
 **Approach**
 
