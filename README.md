@@ -20,7 +20,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5195353f-b6eb-4ab6-9445-6dca1b434667" alt="Untitled video - Made with Clipchamp (2)" width="700"/>
+  <img src="https://github.com/user-attachments/assets/5195353f-b6eb-4ab6-9445-6dca1b434667" alt="Untitled video - Made with Clipchamp (2)" width="1920"/>
   <br/>
   <sub><b>AI feature that transforms raw text into structured data, enabling automated parsing of receipts and shopping carts.</b></sub>
 </div>
