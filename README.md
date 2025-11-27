@@ -21,16 +21,7 @@ I built a system designed for seamless tracking and better decision-making. It u
 
 ![Screenshot_25-11-2025_23545_localhost](https://github.com/user-attachments/assets/520e24fa-e891-4c74-b2f1-692a3ffe8743)
 
-
-<div align="center">
-  <a href="https://github.com/BC-GB/Project-Portfolio/blob/main/ai-parse-receipts-demo-compressed.mp4">
-    <img src="https://github.com/user-attachments/assets/5195353f-b6eb-4ab6-9445-6dca1b434667" alt="Click to play AI parsing demo video" width="100%" />
-  </a>
-  <br/>
-  <sub><b>AI feature that transforms raw text into structured data, enabling automated parsing of receipts and shopping carts.</b></sub>
-  <p><em>Click the image to preview the video on GitHub.</em></p>
-</div>
-
+https://github.com/user-attachments/assets/faed03e6-35c8-4f93-94bc-ce062dfe02b5
 
 #### Problem
 
