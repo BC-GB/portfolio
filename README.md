@@ -36,7 +36,7 @@ I built a system designed for seamless tracking and better decision-making. It u
 
 - **Lack of visibility** into future cashflow and financial health.
 - **Difficulty understanding** the impact of different spending decisions.
-- **Inefficient purchasing** requiring repeat trips to the same stores.
+- **Reactive purchasing** due to lack of inventory visibility, leading to frequent, avoidable store trips instead of consolidated runs
 
 ##### Issues with alternatives
 - Simple “average monthly spend” budgets were misleading due to substantial infrequent purchases.
