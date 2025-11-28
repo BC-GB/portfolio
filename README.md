@@ -21,7 +21,9 @@ I built a system designed for seamless tracking and better decision-making. It u
 
 **Interface with mock data:**
 
-https://github.com/user-attachments/assets/520e24fa-e891-4c74-b2f1-692a3ffe8743
+
+![Screenshot_25-11-2025_23545_localhost](https://github.com/user-attachments/assets/8ee11582-0daa-42fc-8fad-d681cd270377)
+
 
 **Video demonstrating AI parsing:**
 
