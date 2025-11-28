@@ -19,9 +19,13 @@ Staying on top of personal spending, while important for financial responsibilit
 I built a system designed for seamless tracking and better decision-making. It uses AI to parse raw text into structured data, and sort expenses into three distinct type: Recurring (Periodic), Capital (CapEx), and General (Run Rate). This segmentation enables tailored analytical logic, unlocking a diverse range of capabilities such as inventory tracking and cash flow forecasting. Ultimately, automation and this simple yet robust logic streamlines the tracking and analytics process, empowering me to make spending decisions with foresight and confidence.
 
 
-![Screenshot_25-11-2025_23545_localhost](https://github.com/user-attachments/assets/520e24fa-e891-4c74-b2f1-692a3ffe8743)
+**Interface with mock data:**
 
-https://github.com/user-attachments/assets/faed03e6-35c8-4f93-94bc-ce062dfe02b5
+![](https://github.com/user-attachments/assets/520e24fa-e891-4c74-b2f1-692a3ffe8743)
+
+**Video demonstrating AI parsing:**
+
+![](https://github.com/user-attachments/assets/faed03e6-35c8-4f93-94bc-ce062dfe02b5)
 
 #### Problem
 
@@ -89,20 +93,18 @@ Python, Excel (via xlwings and built‑in functions)
 
 #### Problem
 
-- For multiple exams, I needed to maximise retention and complete all practice within the time available.
-- Traditional apps and earlier strategies (e.g. AI generating schedules that I pasted into Notion, then manually re‑formatted and edited) created a lot of admin work, especially when plans changed.
-- Manually updating dates and tasks when falling behind or getting ahead was tedious and discouraged frequent replanning.
+- For multiple exams, I needed to optimise my revision schedule around maximising retention and completing all practice within the time available.
+- Existing note-taking apps and to-do lists to plan and track proved inefficient. Manually inputting data and dynamically adjusting timelines to match my progress was tedious and cumbersome.
 
 #### Approach
 
 - Created a lightweight interface showing what to work on today and how that aligns with each exam, with features that seamlessly allows the user to prioritise, shift dates, and see what's upcoming.
-- YAML format intended to be easy for external tools (including AI) to read or write, allowing the use of AI-powered study schedule optimisation based off exam dates and user priorities.
+- YAML format intended to be easy for external AI tools to read or write, allowing the use of AI-powered study schedule optimisation based off exam dates and user priorities.
 
 #### Impact
 
-- **Optimised study schedules:** Plans factor in deadlines and required coverage, rather than being a flat list of tasks.
-- **Low‑friction replanning:** When reality changes, I update the data file and regenerate instead of manually editing dozens of entries.
-- **Stronger AI leverage:** AI can work on a structured representation of the plan, not just produce text that I then have to clean up.
+- **Low‑friction planning and replanning:** Use of AI for generating the schedule file and bulk updates make it easy to plan and adjust.
+- **Disciplined study:** Mechanism to track progress in a specific, measurable, and time-bound way supports a more disciplined approach to study.
 
 #### Tech
 
