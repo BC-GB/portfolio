@@ -33,6 +33,7 @@ https://github.com/user-attachments/assets/8282f67f-a788-4c1b-b991-53bec60ec45e
 
 #### Problem
 
+##### Challenges
 - **Lack of visibility** into future cashflow and financial health.
 - **Difficulty understanding** the impact of different spending decisions.
 - **Reactive purchasing** due to lack of inventory visibility, leading to frequent, avoidable store trips instead of consolidated runs
@@ -49,7 +50,8 @@ https://github.com/user-attachments/assets/8282f67f-a788-4c1b-b991-53bec60ec45e
 - Integrated AI parsing into the workflow to minimise manual data entry.
 
 #### Impact
-- **Future‑proofed for analytics:** The structured, relational design makes it straightforward to add more advanced AI‑driven insights later (e.g. scenario analysis, recommendations), not just text parsing.
+##### Adaptability
+- **Easy to extend functionality:** The structured, relational design makes it simple to add advanced features later, such as scenario analysis or AI recommendations.
 
 ##### Time-efficiency
 - **Seamless decision‑making:** Easy to review spending decisions, upcoming obligations, and restock needs without relying on memory.
